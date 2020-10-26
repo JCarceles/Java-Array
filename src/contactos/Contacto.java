@@ -11,4 +11,6 @@ package contactos;
  */
 public class Contacto {
     
+    String nombre,telefono,correo;
+    
 }
